@@ -7,8 +7,7 @@ Skills: C# / REACT / TS / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmorillo99&layout=compact)](https://github.com/Dmorillo99/github-readme-stats)
-
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=JavaScript,React,Redux)](https://github.com/kijepark)
 
 
 
