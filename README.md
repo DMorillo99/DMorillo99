@@ -1,6 +1,6 @@
 ### Hi, I'm Dmorillo99
 #### I'm a Developer / Gamedev
-![I'm a Developer / Gamedev].
+![I'm a Software Developer/ Game Developer].
 I'm a software developer who is passionate about video game development, the programming part to be more specific
 
 Skills: C# / .Net / REACT / TS / JS / HTML / CSS
