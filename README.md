@@ -1,16 +1,12 @@
-### Hi there 👋, I'm Dmorillo99
+### Hi, I'm Dmorillo99
 #### I'm a Developer / Gamedev
 ![I'm a Developer / Gamedev].
 I'm a software developer who is passionate about video game development, the programming part to be more specific
 
-Skills: C# / REACT / TS / JS / HTML / CSS
+Skills: C# / .Net / REACT / TS / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=C#,JavaScript,React,Redux)](https://github.com/kijepark)
-
+- 🌱 I’m currently learning Redux, Nextjs 
 
 
-
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dmorillo99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dalvinmorillo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Dmorillo99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Dmorillo99)  
