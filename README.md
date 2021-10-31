@@ -7,7 +7,7 @@ Skills: C# / REACT / TS / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=JavaScript,React,Redux)](https://github.com/kijepark)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=C#, JavaScript, React, Redux)](https://github.com/kijepark)
 
 
 
